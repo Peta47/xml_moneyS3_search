@@ -1,0 +1,26 @@
+XML export z Money
+
+Požadavky:
+- hledání textu v polích 
+WWWPopis
+WWWPopis2
+Pozn
+Pozn1
+Pozn2
+Pozn3
+
+Vstup:
+textový řádek
+
+Výstup:
+- nalezené řádky oddělené linkou
+- seřadit výsledky podle pole Katalog
+- zobrazit na 1 řádek pole: Katalog, Popis na jeden radek
+- plus to co jsem to pomoci ceho vyhledavam
+
+
+opravit - aby se dalo hledat velke i male pismo zaroven --- hotovo
+        - kdyz neco vyhledam a count=1 a pak neco dalsiho a count=0, tak count=1 se neprepise
+        - aby se nezobrazovalo cmd pri sputeni
+
+co noveho - 
